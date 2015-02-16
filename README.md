@@ -1,4 +1,4 @@
-Project is created following Gulp - The Basics Guide
+Project is created following Getting Good with Grunt
 
 http://code.tutsplus.com/courses/getting-good-with-grunt
 
